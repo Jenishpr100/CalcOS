@@ -8,3 +8,4 @@ This is not a serious project and my only goal is for this do do the bare minimu
 
 
 Also check out [this thing](http://installfolder.chickenkiller.com:1000/) for the iso image if it ever even starts that is.
+Update: Server doesn't work and probably won't be working for a while. 
