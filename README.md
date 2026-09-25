@@ -9,3 +9,6 @@ This is not a serious project and my only goal is for this do do the bare minimu
 
 Also check out [this thing](http://installfolder.chickenkiller.com:1000/) for the iso image if it ever even starts that is.  
 Update: Server doesn't work and probably won't be working for a while. 
+
+Notice: Some software and pieces used in this OS may be filed under Different Licenses, such as GPL, Apache 2.0, etc. We respect those licenses. For such software, the root directory of it will be listed, or a different license file will be in the directory, or we will change the license (preferably to GPL or Apache 2.0 [AcornOS's license!] or some other I'm forgetting) if needed.
+with UwUs, "Zero."
