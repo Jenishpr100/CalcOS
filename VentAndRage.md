@@ -1,3 +1,11 @@
+## Few days in
+- Progress made: 0
+- NOTHING. NO ONE MADE ANY CHANGES IN 4 DAYS.
+- The last update was me venting about wanting to start but I couldn't 
+- I don't think its any any noticeable progress until much later.
+- I might add more to the main website for this.
+
+
 ## Trying to start  
 I found a website or an software that will allow me to changhe ISO file apprantly  
 I have no Idea how to use it  
